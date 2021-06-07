@@ -3,6 +3,7 @@
 # SG-DQN
 
 This repository contains the codes for our paper, which is in submission to RA-L and IROS 2021. 
+"Robot Navigation in a Crowd by Integrating Deep Reinforcement Learning and Online Planning"
 
 
 ## Abstract
